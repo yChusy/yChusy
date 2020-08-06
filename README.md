@@ -35,5 +35,5 @@
 <img align="left" alt="yChusy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yChusy&show_icons=true&hide_border=true" />
 
 [website]: https://ystoreplugins.com
-[twitter]: https://twitter.com/luiishenriqueh
+[twitter]: https://twitter.com/luiishenriiqueh
 [youtube]: https://youtube.com/lokuracraftgameplays

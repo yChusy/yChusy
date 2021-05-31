@@ -17,6 +17,6 @@ I am an intermediate java developer, I work usually on tradable systems. I alway
   
 ### Contact-me:
 
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>henrique45novais@gmail.com
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>     henrique45novais@gmail.com
   <br>
-  <img alt="Discord" src="https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>Pitomba#5480
+  <img alt="Discord" src="https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>     Pitomba#5480

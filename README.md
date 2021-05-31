@@ -18,4 +18,4 @@ I am an intermediate java developer, I work usually on tradable systems. I alway
 ### Contact-me:
 
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-  <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img alt="Discord" src="https://img.shields.io/badge/%3CyStore%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>

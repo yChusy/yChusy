@@ -13,3 +13,4 @@ I am an intermediate java developer, I work usually on tradable systems. I alway
 ### Used Tools:
 
   ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue)
+  <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
